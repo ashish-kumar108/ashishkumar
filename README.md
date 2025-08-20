@@ -41,7 +41,7 @@
 # 👨‍💻 About Me
 
 <p>
- <img align="right" width="350" src="/assets/programmer.jpg" alt="Coding gif" />
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy building apps with Flutter and Firebase <br/><br/>
  ❤️ &emsp; Love learning new technologies and problem solving <br/><br/>
