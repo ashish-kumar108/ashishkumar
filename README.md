@@ -42,7 +42,6 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/REST%20API-FF6A00?logo=cloudflare&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
