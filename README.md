@@ -5,7 +5,11 @@
 
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <h3 align="center">🚀 Flutter Developer | 📱 Mobile App Enthusiast | 🌐 Tech Explorer</h3>
-<p align="center"><i>"Building impactful apps with Flutter"</i></p>
+
+<!-- Tagline with gradient -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=600&lines=✨+Building+Impactful+Apps+with+Flutter+✨" alt="tagline"/>
+</p>
 
 ---
 
