@@ -9,7 +9,7 @@
 <!-- Tagline with rainbow gradient -->
 <p align="center">
   <span style="font-size:22px; font-weight:bold;
-    background: linear-gradient(90deg, #ff0080, #ff8c00, #40e0d0, #8a2be2, #ff0080);
+    background: linear-gradient(90deg, #00c6ff, #0072ff, #40e0d0, #8a2be2, #00c6ff);
     -webkit-background-clip: text;
     color: transparent;">
     ✨ Building Impactful Apps with Flutter ✨
@@ -25,6 +25,7 @@
 - 💡 Believer in learning by building **real-world projects**  
 - ⚡ Motto: *“Code. Build. Inspire.”*  
 - 📖 Always eager to explore **new technologies** & contribute to open-source  
+- 🌱 Currently preparing for **placements & competitive exams**  
 - 📧 Reach me anytime: **ashishkumar62055@gmail.com**  
 - 💬 Ask me about anything here!  
 
@@ -39,7 +40,7 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish-kumar108&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashish-kumar108&show_icons=true&theme=tokyonight&rank_icon=github" alt="stats" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-kumar108&theme=tokyonight" alt="streak" height="160"/>
 </p>
 
