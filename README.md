@@ -1,27 +1,14 @@
-<!-- Banner -->
+<!-- Banner / Header -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-7f3b7f62-7d4b-4f96-9a06-9446eaf91a56.gif" alt="Welcome" width="800"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216657029-5cf9a49b-dc02-4046-98af-4937c4a89e20.gif" alt="Coding" width="600"/>
 </p>
 
-<!-- Typing Animation -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ashish+Kumar;Flutter+Developer+%F0%9F%9A%80;Mobile+App+Enthusiast+%F0%9F%93%B1;Tech+Explorer+%F0%9F%8C%90" alt="Typing SVG" />
-  </a>
-</h1>
-
-<!-- Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+<h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
+<h3 align="center">🚀 Flutter Developer | 📱 Mobile App Enthusiast | 🌐 Tech Explorer</h3>
 
 ---
 
-## 👨‍💻 About Me  
+### 👨‍💻 About Me  
 - 🎓 7th Semester **Computer Engineering** Student  
 - 📱 Passionate about **Mobile App Development** with Flutter & Firebase  
 - 🌟 Exploring modern tech like **React** & **Cloud Integration**  
@@ -32,47 +19,45 @@
 
 ---
 
-## 🔗 Connect With Me  
+### 🛠️ Tech Stack  
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanatanii-ashish/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/sanatanii_ashis">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/ashishpawarx/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,java,python,react,mysql,firebase,git,github,vscode,androidstudio" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish-kumar108&show_icons=true&theme=radical" alt="stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-kumar108&theme=radical" alt="streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashish-kumar108&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-kumar108&theme=tokyonight" alt="streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-kumar108&layout=compact&theme=tokyonight" alt="languages" />
 </p>
 
 ---
 
-## 🛠️ Skills & Tools  
-- **Languages**: Dart, Java, SQL, JavaScript  
-- **Frameworks**: Flutter, React  
-- **Database**: Firebase, MySQL  
-- **Other Tools**: Git, VS Code, Android Studio  
+### 🌟 Featured Projects  
+- 📖 **VedPath** → Hindu-themed quiz app with categories like Vedas, Upanishads, Ramayana & Gita  
+- 💻 **CodeCrack** → Coding quiz app to challenge programming knowledge  
+- ☀️ **Weather App** → Real-time weather forecasting app  
+- 🧮 **BMI Calculator** → Simple and interactive body mass index calculator  
+- 🍎 **Nutrition Tracker** → Track daily calories and nutrition intake  
+- 🔢 **Unit Converter** → Convert units easily with a smooth UI  
 
 ---
 
-## 🚀 Highlight Projects  
-- 📱 **VedPath** – A Hindu scripture based quiz app with Firebase integration  
-- 🎮 **CodeCrack** – A coding quiz app for programmers  
-- ☁️ **Weather App** – Real-time weather updates with API integration  
-- ⚖️ **BMI Calculator** – Track fitness and health  
-- 🥗 **Nutrition Tracker** – Daily calorie & nutrition tracking  
-- 🔢 **Unit Converter** – Simple & handy tool for conversions  
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sanatanii-ashish/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/sanatanii_ashis" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ashishpawarx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:ashishkumar62055@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216655171-5b2a18e5-3b70-48f1-a838-1b6a82b433e5.gif" width="500"/>
+  ⭐️ Crafted with passion by <a href="https://github.com/ashish-kumar108">Ashish Kumar</a>
 </p>
