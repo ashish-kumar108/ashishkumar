@@ -9,13 +9,12 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 7th Semester **Computer Engineering** Student  
-- 📱 Passionate about **Mobile App Development** with Flutter & Firebase  
-- 🌟 Exploring modern tech like **React** & **Cloud Integration**  
-- 💡 Believer in learning by building **real-world projects**  
-- ⚡ Motto: *“Code. Build. Inspire.”*  
-- 📧 Reach me anytime: **ashishkumar62055@gmail.com**  
-- 💬 Ask me about anything here!  
+- 🎓 Final Year **Computer Engineering** Student (7th Semester)  
+- 💻 Skilled in **Flutter, Firebase, React & SQL**  
+- 📱 Passionate about **building scalable mobile apps** with real-world impact  
+- 🌟 Strong foundation in **DSA, OOPs & Database Management**  
+- 💡 Constantly exploring **new technologies & modern frameworks**  
+- 📧 Reach me: **ashishkumar62055@gmail.com**  
 
 ---
 
@@ -26,7 +25,7 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Highlights  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ashish-kumar108&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-kumar108&theme=tokyonight" alt="streak" height="160"/>
@@ -39,12 +38,12 @@
 ---
 
 ### 🌟 Featured Projects  
-- 📖 **VedPath** → Hindu-themed quiz app with categories like Vedas, Upanishads, Ramayana & Gita  
-- 💻 **CodeCrack** → Coding quiz app to challenge programming knowledge  
-- ☀️ **Weather App** → Real-time weather forecasting app  
-- 🧮 **BMI Calculator** → Simple and interactive body mass index calculator  
-- 🍎 **Nutrition Tracker** → Track daily calories and nutrition intake  
-- 🔢 **Unit Converter** → Convert units easily with a smooth UI  
+- 📖 **VedPath** → Quiz app on Vedas, Upanishads, Ramayana & Gita (Firebase Integration + Leaderboard)  
+- 💻 **CodeCrack** → Coding quiz app for programmers with timer & sharing features  
+- ☀️ **Weather App** → Real-time weather updates using API  
+- 🧮 **BMI Calculator** → Easy & interactive body mass index calculator  
+- 🍎 **Nutrition Tracker** → Track calories & nutrition daily  
+- 🔢 **Unit Converter** → Fast & user-friendly converter app  
 
 ---
 
