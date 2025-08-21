@@ -3,6 +3,13 @@
   <img src="https://user-images.githubusercontent.com/74038190/216657029-5cf9a49b-dc02-4046-98af-4937c4a89e20.gif" alt="Coding" width="600"/>
 </p>
 
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://github.com/ashish-kumar108">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Enthusiast;Final+Year+Computer+Engineering+Student;Always+Learning+New+Things" alt="Typing Animation" />
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
 <h3 align="center">🚀 Flutter Developer | 📱 Mobile App Enthusiast | 🌐 Tech Explorer</h3>
 
@@ -50,6 +57,13 @@
 
 ---
 
+### 📈 Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashish-kumar108&theme=tokyo-night" alt="contribution graph"/>
+</p>
+
+---
+
 ### 🌟 Featured Projects  
 - **VedPath** → Hindu-themed quiz app with categories like Vedas, Upanishads, Ramayana & Gita  
 - **CodeCrack** → Coding quiz app to challenge programming knowledge  
@@ -69,6 +83,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashish-kumar108&label=Profile%20Views&color=blueviolet&style=flat" alt="views"/>
+</p>
 
 <p align="center">
   ⭐️ Crafted with passion by <a href="https://github.com/ashish-kumar108">Ashish Kumar</a>
