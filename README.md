@@ -19,7 +19,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 7th Semester **Computer Engineering** Student  
+- 🎓 Final Year **Computer Engineering** Student  
 - 📱 Passionate about **Mobile App Development** with Flutter & Firebase  
 - 🌟 Exploring modern tech  
 - 💡 Believer in learning by building **real-world projects**  
