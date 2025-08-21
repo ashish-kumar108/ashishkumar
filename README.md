@@ -50,22 +50,23 @@
 
 ---
 
-### 📌 Pinned Projects  
+### 📌 Pinned Projects (Animated Cards)  
+
 <p align="center">
   <a href="https://github.com/ashish-kumar108/VedPath">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashish-kumar108&repo=VedPath&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashish-kumar108&repo=VedPath&theme=tokyonight&show_owner=true" />
   </a>
   <a href="https://github.com/ashish-kumar108/CodeCrack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashish-kumar108&repo=CodeCrack&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashish-kumar108&repo=CodeCrack&theme=tokyonight&show_owner=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/ashish-kumar108/WeatherApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashish-kumar108&repo=WeatherApp&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashish-kumar108&repo=WeatherApp&theme=tokyonight&show_owner=true" />
   </a>
   <a href="https://github.com/ashish-kumar108/NutritionTracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashish-kumar108&repo=NutritionTracker&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashish-kumar108&repo=NutritionTracker&theme=tokyonight&show_owner=true" />
   </a>
 </p>
 
