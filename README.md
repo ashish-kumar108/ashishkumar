@@ -1,11 +1,11 @@
 <!-- Stylish Header -->
 <div align="center">
   
-  <!-- Gradient Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2193b0,100:6dd5ed&height=200&section=header&text=Ashish%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header"/>
+  <!-- Clean Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2980B9,100:6DD5FA&height=200&section=header&text=Ashish%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header"/>
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2193b0&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Enthusiast;Tech+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=24&duration=3000&pause=1000&color=2980B9&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Enthusiast;Tech+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
 
 </div>
 
@@ -31,12 +31,12 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish-kumar108&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-kumar108&theme=tokyonight" alt="streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashish-kumar108&show_icons=true&theme=default&title_color=2980B9&icon_color=2980B9" alt="stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-kumar108&theme=default&ring=2980B9&fire=2980B9&currStreakLabel=2980B9" alt="streak" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-kumar108&layout=compact&theme=tokyonight" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-kumar108&layout=compact&theme=default&title_color=2980B9" alt="languages" />
 </p>
 
 ---
@@ -53,17 +53,17 @@
 
 ### 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanatanii-ashish/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sanatanii-ashish/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2980B9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/sanatanii_ashis" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.instagram.com/ashishpawarx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:ashishkumar62055@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ashishkumar62055@gmail.com"><img src="https://img.shields.io/badge/Email-2980B9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6dd5ed,100:2193b0&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2980B9&height=120&section=footer"/>
   <br/>
   ⭐️ From <a href="https://github.com/ashish-kumar108">Ashish Kumar</a>
 </div>
