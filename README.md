@@ -33,20 +33,24 @@
 
 ## 🚀 Tech Stack  
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=database&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF6F00?style=flat-square&logo=api&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-![OOP](https://img.shields.io/badge/OOP-FF6F00?style=flat-square&logo=object-group&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-008000?style=flat-square&logo=code&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-2E86C1?style=flat-square&logo=codeforces&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud%20Firestore-FFA000?logo=firebase&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/REST%20API-FF6A00?logo=cloudflare&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/OOP-FF6F00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-0B84ED?style=flat-square" />
+</p>
 
 ---
 
