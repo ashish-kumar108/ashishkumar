@@ -1,13 +1,10 @@
-<!-- Stylish Header -->
-<div align="center">
-  
-  <!-- Clean Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2980B9,100:6DD5FA&height=200&section=header&text=Ashish%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="header"/>
+<!-- Banner / Header -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216657029-5cf9a49b-dc02-4046-98af-4937c4a89e20.gif" alt="Coding" width="600"/>
+</p>
 
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Calibri&size=24&duration=3000&pause=1000&color=2980B9&center=true&vCenter=true&width=600&lines=Flutter+Developer;Mobile+App+Enthusiast;Tech+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
-
-</div>
+<h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
+<h3 align="center">🚀 Flutter Developer | 📱 Mobile App Enthusiast | 🌐 Tech Explorer</h3>
 
 ---
 
@@ -17,8 +14,8 @@
 - 🌟 Exploring modern tech like **React** & **Cloud Integration**  
 - 💡 Believer in learning by building **real-world projects**  
 - ⚡ Motto: *“Code. Build. Inspire.”*  
-- 📧   Reach me anytime: **ashishkumar62055@gmail.com**  
-- 💬   Ask me about anything here!  
+- 📧 Reach me anytime: **ashishkumar62055@gmail.com**  
+- 💬 Ask me about anything here!  
 
 ---
 
@@ -31,20 +28,20 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish-kumar108&show_icons=true&theme=default&title_color=2980B9&icon_color=2980B9" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-kumar108&theme=default&ring=2980B9&fire=2980B9&currStreakLabel=2980B9" alt="streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashish-kumar108&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-kumar108&theme=tokyonight" alt="streak" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-kumar108&layout=compact&theme=default&title_color=2980B9" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-kumar108&layout=compact&theme=tokyonight" alt="languages" />
 </p>
 
 ---
 
 ### 🌟 Featured Projects  
-- 📖 **VedPath** → A Hindu-themed quiz app with categories like Vedas, Upanishads, Ramayana & Gita  
-- 💻 **CodeCrack** → A coding quiz app to challenge your programming knowledge  
-- ☀️ **Weather App** → A real-time weather forecasting app  
+- 📖 **VedPath** → Hindu-themed quiz app with categories like Vedas, Upanishads, Ramayana & Gita  
+- 💻 **CodeCrack** → Coding quiz app to challenge programming knowledge  
+- ☀️ **Weather App** → Real-time weather forecasting app  
 - 🧮 **BMI Calculator** → Simple and interactive body mass index calculator  
 - 🍎 **Nutrition Tracker** → Track daily calories and nutrition intake  
 - 🔢 **Unit Converter** → Convert units easily with a smooth UI  
@@ -53,17 +50,14 @@
 
 ### 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/sanatanii-ashish/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2980B9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/sanatanii_ashis" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sanatanii-ashish/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/sanatanii_ashis" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.instagram.com/ashishpawarx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:ashishkumar62055@gmail.com"><img src="https://img.shields.io/badge/Email-2980B9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ashishkumar62055@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DD5FA,100:2980B9&height=120&section=footer"/>
-  <br/>
-  ⭐️ From <a href="https://github.com/ashish-kumar108">Ashish Kumar</a>
-</div>
+<p align="center">
+  ⭐️ Crafted with passion by <a href="https://github.com/ashish-kumar108">Ashish Kumar</a>
+</p>
