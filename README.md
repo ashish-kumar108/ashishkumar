@@ -1,6 +1,6 @@
-<!-- Banner / Header -->
+<!-- Header -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216657029-5cf9a49b-dc02-4046-98af-4937c4a89e20.gif" alt="Coding" width="600"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-d93d7f7c-8597-4c56-8b62-9af97c7f2f6f.gif" alt="Coding Banner" width="600"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Ashish Kumar</h1>
@@ -9,12 +9,11 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 Final Year **Computer Engineering** Student (7th Semester)  
-- 💻 Skilled in **Flutter, Firebase, React & SQL**  
-- 📱 Passionate about **building scalable mobile apps** with real-world impact  
-- 🌟 Strong foundation in **DSA, OOPs & Database Management**  
-- 💡 Constantly exploring **new technologies & modern frameworks**  
-- 📧 Reach me: **ashishkumar62055@gmail.com**  
+- 🎓 Final-year **Computer Engineering** Student  
+- 📱 Skilled in **Flutter, Firebase & Mobile App Development**  
+- 🌐 Exploring modern tech like **React & Cloud Integration**  
+- 🛠 Loves building **real-world projects** & learning by doing  
+- 📧 Reach me anytime: **ashishkumar62055@gmail.com**  
 
 ---
 
@@ -25,25 +24,25 @@
 
 ---
 
-### 📊 GitHub Highlights  
+### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashish-kumar108&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-kumar108&theme=tokyonight" alt="streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ashish-kumar108&show_icons=true&theme=graywhite" alt="stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashish-kumar108&theme=graywhite" alt="streak" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-kumar108&layout=compact&theme=tokyonight" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-kumar108&layout=compact&theme=graywhite" alt="languages" />
 </p>
 
 ---
 
 ### 🌟 Featured Projects  
-- 📖 **VedPath** → Quiz app on Vedas, Upanishads, Ramayana & Gita (Firebase Integration + Leaderboard)  
-- 💻 **CodeCrack** → Coding quiz app for programmers with timer & sharing features  
-- ☀️ **Weather App** → Real-time weather updates using API  
-- 🧮 **BMI Calculator** → Easy & interactive body mass index calculator  
-- 🍎 **Nutrition Tracker** → Track calories & nutrition daily  
-- 🔢 **Unit Converter** → Fast & user-friendly converter app  
+✅ **VedPath** – Hindu-themed quiz app (Vedas, Upanishads, Ramayana, Gita)  
+✅ **CodeCrack** – Programming quiz app  
+✅ **Weather App** – Real-time weather forecast  
+✅ **BMI Calculator** – Interactive body mass index calculator  
+✅ **Nutrition Tracker** – Track daily calories & nutrition  
+✅ **Unit Converter** – Smooth UI for quick conversions  
 
 ---
 
@@ -58,5 +57,5 @@
 ---
 
 <p align="center">
-  ⭐️ Crafted with passion by <a href="https://github.com/ashish-kumar108">Ashish Kumar</a>
+  ⚡️ Open to internships & full-time opportunities | Crafted with passion by <a href="https://github.com/ashish-kumar108">Ashish Kumar</a>
 </p>
